@@ -143,4 +143,3 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA18037_00.png?raw=true" width="100" height="100">|Kamiko                                                     |
 |<img src="ps4/CUSA18569_00.png?raw=true" width="100" height="100">|Red Death                                                  |
 |<img src="ps4/CUSA15400_00.png?raw=true" width="100" height="100">|Predator: Hunting Grounds                                  |
-|<img src="ps4/CUSA03975_00.png?raw=true" width="100" height="100">|Overwatch: Origins Edition
